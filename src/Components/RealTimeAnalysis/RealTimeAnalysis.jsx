@@ -13,18 +13,15 @@ export class RealTimeAnalysis extends Component {
       <div className='home'>
           <div className="home-wrapper">
               <img src={realtime} alt="" />
-              <p> <span>San Siro</span> Stadium is the beating heart of AC Milan.
-                  For fans, it's a sacred space where their love for the club
-                  comes to life. It's not just a stadium; it's a symbol of
-                  assion, unity, and a shared sense of belonging. It's where
-                  the Rossoneri spirit thrives, and every match is a celebration
-                  of their unwavering devotion to AC Milan.
-                  San Siro isn't just a sporting venue; it's a canvas on which
-                  the drama of AC Milan's matches unfolds. It's where dreams take
-                  shape and where legends are born. It's where the spirit of the
-                  Rossoneri comes alive, and every goal, every save, and every
-                  triumph or setback is etched into the collective
-                  memory of the fans.</p>
+              <p> In the modern landscape of real-time technology, 
+              the demand for instantaneous data processing has revolutionized industries across the globe.
+               From financial markets reacting to split-second changes in stock values to smart 
+               city infrastructures optimizing traffic flow on the fly, the ability to respond in real 
+               time has become a cornerstone of innovation. Real-time analytics is particularly
+                transformative in sports, where platforms capture live game data, process it within
+                 milliseconds, and provide actionable insights for teams and fans alike. This paradigm 
+                 shift not only enhances decision-making but also redefines user experiences, setting 
+                 the stage for a future where every moment counts.</p>
           </div>
       </div>
   )

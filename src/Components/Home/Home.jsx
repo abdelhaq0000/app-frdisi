@@ -11,86 +11,58 @@ const Home = () => {
         <div className='home'>
             <div className="home-wrapper">
                 <img src={sansiro} alt="" />
-                <p> <span>San Siro</span> Stadium is the beating heart of AC Milan.
-                    For fans, it's a sacred space where their love for the club
-                    comes to life. It's not just a stadium; it's a symbol of
-                    assion, unity, and a shared sense of belonging. It's where
-                    the Rossoneri spirit thrives, and every match is a celebration
-                    of their unwavering devotion to AC Milan.
-                    San Siro isn't just a sporting venue; it's a canvas on which
-                    the drama of AC Milan's matches unfolds. It's where dreams take
-                    shape and where legends are born. It's where the spirit of the
-                    Rossoneri comes alive, and every goal, every save, and every
-                    triumph or setback is etched into the collective
-                    memory of the fans.</p>
+                <p> <span>The FIFA World Cup 2030 </span>is set to be a landmark tournament, as it marks the centennial 
+                    celebration of the inaugural World Cup held in 1930. While the host countries have not 
+                    yet been finalized, there is significant interest from various nations in South America,
+                     Europe, and possibly North Africa and the Middle East. This World Cup will not only showcase 
+                     the best international football teams but also aims to highlight the sport's global reach and
+                      growth, with plans for innovative fan engagement and sustainability initiatives. As the host
+                      nation are determined, anticipation 
+                    will build around how the tournament will honor its rich history while looking to the future of 
+                    football..</p>
             </div>
             <div className="home-wrapper1">
                 <img src={curvasud1} alt="" />
                 <p>
-                    <span>The Curva Sud,</span> where emotions run deeper than words can express. It's
-                    the sacred ground where the Rossoneri faithful gather, their hearts
-                    pulsating in perfect harmony with every move on the pitch. This is
-                    where passion transcends mere fandom; it becomes a way of life.
-                    In the Curva Sud, the colors of AC Milan aren't just worn; they're
-                    worn with pride, a badge of honor. It's a place where voices unite
-                    in a chorus of unwavering support, where the highs are celebrated
-                    with exuberant joy, and the lows are endured together with resilience.
-                    For the Rossoneri, the Curva Sud isn't just a section of the stadium;
-                    it's a sanctuary of emotions, a shrine to their undying love for
-                    AC Milan. It's where tears of joy and sorrow flow freely, where
-                    legends are born, and where the spirit of the club lives on in the
-                    hearts of those who proudly call themselves Rossoneri.
-                    and <span>Forza Milan! 🔴⚫</span>
+                    <span> Morocco</span> to co-host the 2026 FIFA World Cup alongside the United 
+                    States and Canada. However, as of October 2023, there has been no formal announcement regarding 
+                    Morocco's specific role in the 2030 World Cup, though the nation has expressed interest in bidding 
+                    for the tournament. Morocco's previous successful hosting of international 
+                    events and its vibrant football culture position it as a potential candidate for future tournaments.
                 </p>
             </div>
             <div className="home-wrapper">
                 <img src={scudetto} alt="" />
-                <p>The term <span>"Scudetto"</span> carries immense emotional weight
-                    for AC Milan—a weight that extends far beyond the boundaries of a
-                    league title. It's a symbol of the club's rich heritage, a testament
-                    to their relentless pursuit of greatness, and a source of profound
-                    pride for players and fans alike. For AC Milan, winning the Scudetto
-                    is not just an achievement; it's a statement of their enduring
-                    commitment to excellence. It represents countless hours of hard
-                    work, unwavering dedication, and a deep-rooted belief in their
-                    ability to conquer any challenge. The red and black colors of
-                    AC Milan are raised high in triumph, not just as a symbol of
-                    victory but as a representation of the club's indomitable spirit.</p>
+                <p><span> Morocco</span> has 
+                been actively investing in infrastructure improvements in preparation for the FIFA World Cup 2030,
+                 which they are co-hosting with Spain and Portugal. Key developments include the expansion and 
+                 modernization of transport networks, such as the enhancement of highways and rail connections, 
+                 and significant upgrades to stadiums and sporting facilities. Additionally, urban infrastructure 
+                 in cities like Casablanca, Marrakech, and Rabat is being improved to accommodate the influx of
+                  visitors, with initiatives
+                 focusing on public transportation, hospitality, and urban services to ensure a successful tournament.</p>
 
             </div>
             <div className="home-wrapper1">
                 <p>
-                    <span>The Champions League,</span> for AC Milan, is more
-                    than just a prestigious football competition; it represents
-                    an unrelenting pursuit of immortality, a journey into the
-                    realm of legends. It encapsulates the essence of the club's
-                    storied history, their indomitable spirit, and their
-                    unwavering commitment to conquering Europe. For AC Milan,
-                    the Champions League is a symbol of unparalleled
-                    excellence. It signifies not just victory but the zenith
-                    of their ambition, a testament to their resilience in the
-                    face of the continent's best. Each triumph in this hallowed
-                    tournament is not just an accomplishment but an affirmation
-                    of their place among football's elite.</p>
+                    <span> Morocco made a historic</span> run in the 2022 FIFA World Cup, becoming 
+                    the first African nation to reach the semifinals of the tournament. They topped their group, which 
+                    included Croatia, Belgium, and Canada, before defeating Spain in the Round of 16 and Portugal in 
+                    the quarterfinals. Their remarkable performance captured global attention and showcased their 
+                    strong defensive play and passionate fan support, ultimately finishing in 
+                    fourth place after losing to France in the semifinals and falling to Croatia in the third-place match.</p>
                 <img src={champions} alt="" />
             </div>
             <div className="home-wrapper">
                 <img src={curvasud} alt="" />
-                    <p> <span>The Curva Sud,</span> a sea of passionate
-                        red and black, is the heartbeat of AC Milan's
-                        fervent support. It's not just a section of the
-                        stadium; it's a sacred ground where emotions soar,
-                        where chants and cheers reverberate like thunder,
-                        and where the true essence of Milanisti comes to
-                        life. In the Curva Sud, fans become one, forging
-                        an unbreakable bond with their beloved club, and
-                        creating an atmosphere that is as electric as it
-                        is unforgettable. It's where dreams are shared,
-                        victories celebrated, and where the Rossoneri
-                        spirit burns the brightest. The Curva Sud isn't
-                        just a place; it's a living testament to the
-                        unyielding love and devotion of AC Milan's
-                        passionate fan base.</p>
+                    <p> <span>The 2030 FIFA World Cup,</span> is set to be a landmark tournament,
+                     as it marks the centennial celebration of the inaugural World Cup held in 1930. While the host 
+                     countries have not yet been finalized, there is significant interest from various nations in South 
+                     America, Europe, and possibly North Africa and the Middle East. This World Cup will not only 
+                     showcase the best international football teams but also aims to highlight the sport's global reach
+                      and growth, with plans for innovative fan engagement and sustainability initiatives. As the host 
+                      nation are determined, anticipation will 
+                    build around how the tournament will honor its rich history while looking to the future of football.</p>
             </div>
         </div>
     )
